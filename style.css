@@ -15,9 +15,9 @@ body {background: #A9A9A9;
 		font: 24pt;
 		font-family: 'Fira Sans Extra Condensed', sans-serif;}
 		
-p {font size: 225%}
 
-p {font size: 225%
+
+p {
 text-align: center
     width: 250px;
     border: 10px solid white;
@@ -32,6 +32,6 @@ img { display: block;
 		
 
 		
-		
+	
 a {color: #A52A2A}
 a:hover { color: white}
