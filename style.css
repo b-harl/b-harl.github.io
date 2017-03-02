@@ -1,11 +1,37 @@
-h1 {color: red;
-		font size: 300%}
+h1 {color: 	#F0F8FF;
+		font size: 300%;
+		text-align: center}
+		
+h2 {text-align: center}
 
-body {background: lightgrey;
+nav li { display: inline-block }
+nav li { border: 1px black }
+nav li { padding: 8px;
+		 margin: 5px;
+		 background: lightgray}
+
+body {background: #A9A9A9;
 		color: black;
-		font: 14pt;
+		font: 24pt;
 		font-family: 'Fira Sans Extra Condensed', sans-serif;}
 		
+p {font size: 225%}
+
+p {font size: 225%
+text-align: center
+    width: 250px;
+    border: 10px solid white;
+    padding: 25px;
+    margin: 25px;}
+
+
+img { display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 		
-a {color: darkblue}
+
+		
+		
+a {color: #A52A2A}
 a:hover { color: white}
